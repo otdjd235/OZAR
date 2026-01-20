@@ -78,7 +78,7 @@ Il s'agit d'un projet personnel assisté par chatGPT, pour la mise en pratique d
 ##  Lancer le projet en local
 
 ### 1) Cloner le repo
-`bash
+
 git clone https://github.com/otdjd235/OZAR.git
 cd OZAR/backend
 
