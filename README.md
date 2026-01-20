@@ -2,6 +2,7 @@
 
 **OZAR** est une plateforme de gestion dédiée aux chorales et équipes de louange d’église.  
 Le projet vise à centraliser les chants, les thèmes, les répertoires de culte, les événements et la coordination des musiciens dans une seule application moderne (Web + Mobile).
+Il s'agit d'un projet personnel assisté par chatGPT, pour la mise en pratique des connaissances acquises en dev d'apk web , gestion des bases de données vectrorielles et intégration d'IA.
 
 >  **Statut** : Projet en cours de développement (MVP backend déjà fonctionnel)
 
